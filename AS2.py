@@ -31,7 +31,7 @@ def processar_menu_operacoes(escolha2, nome_arquivo):
     else:
         print("Opção secundária inválida, repita:")
     return True
-
+# testeteste
 # Função de mostrar o menu principal
 def mostrar_menu_principal():
     print("Seja bem-vindo(a) ao Sistema PUC.")
